@@ -1,2 +1,3 @@
-###                                                     Hey 👋🏻  I'm Anusha
-##                                                     Data Science Trainee
+### center(Hey 👋🏻  I'm Anusha)
+## center(Data Science Trainee)
+
