@@ -12,4 +12,4 @@ I am a Data Science Trainee from India.
 </div>
  <br><br>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anusha0907&theme=highcontrast)]()
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anusha0907&theme=highcontrast)](https://github.com/Anusha0907/Anusha0907)
